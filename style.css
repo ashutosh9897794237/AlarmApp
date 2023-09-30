@@ -1,0 +1,43 @@
+*{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#set-time{
+    width: 500px;
+height : 50px;
+top: 132px;
+margin-left: 500px;
+border-radius: 20px;
+background-color: rgb(33, 33, 121);
+margin-top: 0px;
+}
+.time{
+    width: 300px;
+}
+#Set{
+    background: yellow;
+    color: black;
+    width: 70px;
+    height: 30px;
+    border-radius: 15px;
+}
+#Current{
+    width: 250px;
+    height: 30px;
+    background-color : rgb(117, 102, 102);
+margin-top: 25px;;
+margin-left: 657px;
+border-radius: 50px;
+color: white;
+top: 20px;
+}
+#container{
+    align-content: center;
+}
+#timers{
+margin-top: 20px;
+margin-left: 40px;
+
+}
+
